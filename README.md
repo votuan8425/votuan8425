@@ -41,7 +41,7 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=votuan8425&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=votuan8425&layout=compact" width="50%"/>
 </div>
 
 <br>
